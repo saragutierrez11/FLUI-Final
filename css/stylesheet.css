@@ -1,0 +1,370 @@
+header{
+	background-color: #000000;
+}
+
+#hero{
+	background-image: url("../img/coverheader.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+}
+#hero h1{
+	text-align: center;
+	font-weight: 600;
+	color: #FFFFFF;
+	letter-spacing: 10px;
+	font-size: 90px;
+}
+#honduras{
+	background-color: #FFFFFF;
+	align-content: center;
+	padding: 120px 0;
+}
+
+#honduras h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+.honduras-pic{
+	position: relative;
+	overflow: hidden;
+}
+
+.layer-text{
+	position: absolute;
+	top: 0%;
+	left: 0%;
+	background-color: #FFFFFF;
+	width: 100%;
+	height: 100%;
+	color: #000000;
+	text-align: center;
+	opacity: 0;
+	transition: all 0.5s ease-in;
+}
+
+.work-info:hover .layer-text{
+	opacity: 1;
+	transition: all 0.5s ease-in;
+}
+
+#honduras h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 55px;
+}
+
+#noticias{
+	align-content: center;
+	background-color: #EAEAED;
+	padding: 120px 0;
+}
+
+#noticias h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#noticias h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+}
+
+#noticias h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 55px;
+	
+}
+.btn{
+	color: #0B002F;
+	font-size: 18px;
+	text-transform: uppercase;
+	border: 1px solid #0B002F;
+	background-color:#E8ED30;
+}
+.btn:hover{
+	background-color:transparent;
+	border: 1px solid #0B002F;
+	color: #0B002F;
+}
+#hoteles {
+	background-color: #FFFFFF;
+	align-content: center;
+	padding: 120px 0;
+}
+
+#hoteles h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#hoteles h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+
+}
+
+#hoteles h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 55px;
+}
+
+#transporte {
+	align-content: center;
+	background-color: #EAEAED;
+	padding: 120px;
+}
+
+#transporte h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#transporte h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+
+}
+
+#transporte h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 55px;
+}
+
+#contacto {
+	background-image: url("../img/contactooo.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: #FFFFFF;
+	align-content: center;
+	padding: 100px 0;
+}
+
+#contacto h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 30px;
+}
+
+#contacto h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 10px;
+}
+
+footer{
+	color: #E8ED30;
+	background-color: #000000;
+	padding: 2px;
+	height: 60px;
+}
+
+footer h4{
+	text-align: center;
+	font-size: 15px;
+	padding-top: 5px;
+}
+
+#cover{
+	background-image: url("../img/coverfinal.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+}
+
+#cover h1{
+	text-align: center;
+	font-weight: 600;
+	color: #FFFFFF;
+	letter-spacing: 10px;
+	font-size: 90px;
+}
+
+#information {
+	background-color: #FFFFFF;
+	align-content: center;
+	padding: 120px 0;
+}
+
+#information h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#cabecera{
+	background-image: url("../img/header.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+}
+
+#cabecera h1{
+	text-align: center;
+	font-weight: 600;
+	color: #FFFFFF;
+	letter-spacing: 10px;
+	font-size: 90px;
+}
+
+#departamento {
+	align-content: center;
+	background-color: #FFFFFF;
+	padding: 120px 0;
+}
+
+#departamento h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#departamento h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+}
+
+#departamento h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+
+#ambiente{
+		align-content: center;
+	background-color: #EAEAED;
+	padding: 120px 0;
+}
+
+#ambiente h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#ambiente h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+}
+
+#ambiente h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+}
+
+#cabtransporte{
+	background-image: url("../img/transporte-cover.jpg");
+	background-position: center;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+}
+
+#cabtransporte h1{
+	text-align: center;
+	font-weight: 600;
+	color: #FFFFFF;
+	letter-spacing: 10px;
+	font-size: 90px;
+}
+
+#mediostransporte {
+	align-content: center;
+	background-color: #FFFFFF;
+	padding: 120px;
+}
+
+#mediostransporte h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#mediostransporte h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+}
+
+#mediostransporte h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+	}
+
+#actividades {
+	background-image: url("../img/actividades-cover.jpg");
+	background-position: top;
+	background-repeat: no-repeat;
+	background-size: cover;
+	padding: 80px 0;
+}
+
+#actividades h1{
+	text-align: center;
+	font-weight: 600;
+	color: #FFFFFF;
+	letter-spacing: 10px;
+	font-size: 90px;
+}
+
+#departamento {
+	align-content: center;
+	background-color: #FFFFFF;
+	padding: 120px 0;
+}
+
+#departamento h2{
+	text-align: center;
+	font-weight: 500;
+	letter-spacing: 10px;
+	padding-bottom: 70px;
+}
+
+#departamento h4{
+	text-align: center;
+	font-size: 20px;
+	color: #000000;
+	padding-top: 20px;
+}
+
+#departamento h5{
+	text-align: center;
+	font-size: 20px;
+	padding-top: 30px;
+	padding-bottom: 100px;
+	}
